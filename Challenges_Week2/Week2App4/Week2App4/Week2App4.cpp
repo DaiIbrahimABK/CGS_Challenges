@@ -49,7 +49,7 @@ void factors(int number)
 		}
 	
 	}
-	return;
+
 	
 
 }

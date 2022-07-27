@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{67a3955d-066b-4654-b912-b56a4a3c871e}</ProjectGuid>
-    <RootNamespace>Week2App6</RootNamespace>
+    <ProjectGuid>{919ba5ef-7049-48d7-91f4-a8efd5dfe6d4}</ProjectGuid>
+    <RootNamespace>Week2RPG</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,11 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Car.cpp" />
-    <ClCompile Include="Week2App6.cpp" />
+    <ClCompile Include="Character.cpp" />
+    <ClCompile Include="CollectPlayerInput.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Weapon.cpp" />
+    <ClCompile Include="Week2RPG.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Car.h" />
+    <ClInclude Include="Character.h" />
+    <ClInclude Include="CollectPlayerInput.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Weapon.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
