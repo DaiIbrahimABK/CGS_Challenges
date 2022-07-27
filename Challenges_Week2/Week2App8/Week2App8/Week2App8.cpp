@@ -13,30 +13,6 @@ T Maximum(T a, T b)
 
 
 
-template <typename T>
-class Stack
-{
-    static const int k_sizeStack = 10;
-    T m_data[k_sizeStack];
-    int m_top;
-public:
-    Stack()
-        :m_top(-1)
-    {
-        memset(m_data, 0, sizeof(T) * k_sizeStack);
-    }
-    void Push(T data)
-    {
-        ++m_top;
-        m_data[m_top];
-    }
-    T Pop()
-    {
-        T value = m_data[m_top];
-        --m_top;
-        return value;
-    }
-};
 
 int main()
 {
