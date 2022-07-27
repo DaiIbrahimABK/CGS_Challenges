@@ -1,5 +1,4 @@
 #include<iostream>
-#include"Vehicle.h"
 #include"Plane.h"
 using namespace std;
 Plane::Plane(int year, int miles, string brand)

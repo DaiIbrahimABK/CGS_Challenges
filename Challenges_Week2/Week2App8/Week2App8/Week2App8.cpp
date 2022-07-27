@@ -20,9 +20,6 @@ int main()
     Point<float> p2(4.5f, 4.7f);
     Point<double> p3(12.5, 8.9);
 
-    Stack<int> intStack;
-    intStack.Push(10);
-    intStack.Push(20);
 
         
    cout<<"The max of two int type using template " << Maximum(12, 3) << endl;
