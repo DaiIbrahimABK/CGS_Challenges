@@ -10,6 +10,6 @@ protected:
 
 public:
 	//Player();
-	Player(string name, WeaponsList weapon);
+	Player(string name, WeaponsList weapon, ArmorList armor);
 	~Player();
 };

@@ -6,8 +6,8 @@ using std::cout;
 using std::cin;
 using std::endl;
 
-Player::Player(string name, WeaponsList weapon)
-	:Character(name, weapon)
+Player::Player(string name, WeaponsList weapon, ArmorList armor)
+	:Character(name, weapon, armor)
 {
 
 	//string playerName;

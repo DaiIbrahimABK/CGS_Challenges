@@ -9,6 +9,7 @@ public:
 //	Player CollectPlayerInfo()
 	std::string GetPName();
 	int GetWeapon();
+	int GetArmor();
 	void DisplayPlayer(Player nPlayer);
 
 
