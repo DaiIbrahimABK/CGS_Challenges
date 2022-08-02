@@ -3,9 +3,14 @@
 
 #include <iostream>
 #include "Player.h";
+#include "Encounter.h"
+#include "Enemy.h"
 #include "CollectPlayerInput.h"
 int main()
 {
     Player* myPlayerPtr= CollectPlayerInput().CollectPlayerInputs();
+    Enemy enemy = Enemy();
+    Encounter encounter = Encounter(myPlayerPtr, &enemy);
+    encounter.PlayMatch();
     std::cout << "Hello World!\n";
 }

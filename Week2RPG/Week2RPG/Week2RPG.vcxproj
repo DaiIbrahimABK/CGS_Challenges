@@ -142,6 +142,8 @@
     <ClCompile Include="Armor.cpp" />
     <ClCompile Include="Character.cpp" />
     <ClCompile Include="CollectPlayerInput.cpp" />
+    <ClCompile Include="Encounter.cpp" />
+    <ClCompile Include="Enemy.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="Weapon.cpp" />
     <ClCompile Include="Week2RPG.cpp" />
@@ -150,6 +152,8 @@
     <ClInclude Include="Armor.h" />
     <ClInclude Include="Character.h" />
     <ClInclude Include="CollectPlayerInput.h" />
+    <ClInclude Include="Encounter.h" />
+    <ClInclude Include="Enemy.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="Weapon.h" />
   </ItemGroup>

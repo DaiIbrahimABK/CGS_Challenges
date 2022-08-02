@@ -16,6 +16,7 @@ public:
 	Weapon getWeapon(); //create weapon class
     Armor getArmor(); //create armor class
 	int getHealth();  
+	virtual int GetDamage() = 0;
 	~Character();
 };
 

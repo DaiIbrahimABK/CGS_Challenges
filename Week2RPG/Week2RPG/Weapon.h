@@ -8,6 +8,7 @@ public:
 	Weapon(WeaponsList weaponChoice);
 	static std::string GetWeaponName(WeaponsList weaponChoice);
 		std::string GetWeaponName();
+		int GetWeaponDamage();
 	~Weapon();
 
 };

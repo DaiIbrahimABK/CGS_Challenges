@@ -11,5 +11,6 @@ protected:
 public:
 	//Player();
 	Player(string name, WeaponsList weapon, ArmorList armor);
+	int GetDamage() override;
 	~Player();
 };

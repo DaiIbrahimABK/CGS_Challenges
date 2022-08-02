@@ -25,6 +25,13 @@ Player::Player(string name, WeaponsList weapon, ArmorList armor)
 
 	
 }
+int Player::GetDamage()
+{
+
+		int damage = getWeapon().GetWeaponDamage();
+		return damage >= 1 ? damage - 1 : 0;
+	
+}
 Player::~Player(){
 
 }
