@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DoorProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8DFB944B-D01E-4072-8C2A-8C0153DC0F3D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DoorProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DoorProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\2x1 Door and Frame.fbx" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{98075CE6-3C78-41B1-A9F9-9DE6878D7F14}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DoorProject">
+      <UniqueIdentifier>{9C9FCF48-52A5-4422-9C81-176B3139BE89}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DoorProject\DoorProject.Build.cs">
+      <Filter>Source\DoorProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DoorProject\DoorProject.cpp">
+      <Filter>Source\DoorProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DoorProject\DoorProject.h">
+      <Filter>Source\DoorProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DoorProject\DoorProjectGameModeBase.cpp">
+      <Filter>Source\DoorProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DoorProject\DoorProjectGameModeBase.h">
+      <Filter>Source\DoorProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\DoorProject\Private">
+      <UniqueIdentifier>{6FF95014-C76D-42E0-AB84-E908C0001E75}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DoorProject\Private\DoorInteractionActorComponent.cpp">
+      <Filter>Source\DoorProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DoorProject\Private\InteractDoor.cpp">
+      <Filter>Source\DoorProject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\DoorProject\Public">
+      <UniqueIdentifier>{D1AE3E11-CE4A-4446-8BEC-A83EFED551DB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DoorProject\Public\DoorInteractionActorComponent.h">
+      <Filter>Source\DoorProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DoorProject\Public\InteractDoor.h">
+      <Filter>Source\DoorProject\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

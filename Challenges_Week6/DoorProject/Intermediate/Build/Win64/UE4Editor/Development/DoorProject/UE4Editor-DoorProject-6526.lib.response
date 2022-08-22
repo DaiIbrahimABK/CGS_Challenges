@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DoorProject-6526.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\dibrahim\Documents\GitHub\CGS_Challenges\Challenges_Week6\DoorProject\Intermediate\Build\Win64\DoorProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\dibrahim\Documents\GitHub\CGS_Challenges\Challenges_Week6\DoorProject\Intermediate\Build\Win64\UE4Editor\Development\DoorProject\DoorInteractionActorComponent.cpp.obj"
+"C:\Users\dibrahim\Documents\GitHub\CGS_Challenges\Challenges_Week6\DoorProject\Intermediate\Build\Win64\UE4Editor\Development\DoorProject\DoorProject.cpp.obj"
+"C:\Users\dibrahim\Documents\GitHub\CGS_Challenges\Challenges_Week6\DoorProject\Intermediate\Build\Win64\UE4Editor\Development\DoorProject\DoorProjectGameModeBase.cpp.obj"
+"C:\Users\dibrahim\Documents\GitHub\CGS_Challenges\Challenges_Week6\DoorProject\Intermediate\Build\Win64\UE4Editor\Development\DoorProject\DoorInteractionActorComponent.gen.cpp.obj"
+"C:\Users\dibrahim\Documents\GitHub\CGS_Challenges\Challenges_Week6\DoorProject\Intermediate\Build\Win64\UE4Editor\Development\DoorProject\DoorProject.init.gen.cpp.obj"
+"C:\Users\dibrahim\Documents\GitHub\CGS_Challenges\Challenges_Week6\DoorProject\Intermediate\Build\Win64\UE4Editor\Development\DoorProject\DoorProjectGameModeBase.gen.cpp.obj"
+"C:\Users\dibrahim\Documents\GitHub\CGS_Challenges\Challenges_Week6\DoorProject\Intermediate\Build\Win64\UE4Editor\Development\DoorProject\Default.rc2.res"
+/OUT:"C:\Users\dibrahim\Documents\GitHub\CGS_Challenges\Challenges_Week6\DoorProject\Intermediate\Build\Win64\UE4Editor\Development\DoorProject\UE4Editor-DoorProject-6526.lib"

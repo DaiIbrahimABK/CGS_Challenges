@@ -1,0 +1,2 @@
+C:\Users\dibrahim\Documents\GitHub\CGS_Challenges\Challenges_Week6\DoorProject\Intermediate\Build\Win64\UE4Editor\Development\DoorProject\Definitions.DoorProject.h
+C:\Users\dibrahim\Documents\GitHub\CGS_Challenges\Challenges_Week6\DoorProject\Source\DoorProject\DoorProject.h

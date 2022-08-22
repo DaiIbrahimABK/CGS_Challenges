@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DoorProject",
+			"Path": "C:\\Users\\dibrahim\\Documents\\GitHub\\CGS_Challenges\\Challenges_Week6\\DoorProject\\Source\\DoorProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DoorProjectEditor",
+			"Path": "C:\\Users\\dibrahim\\Documents\\GitHub\\CGS_Challenges\\Challenges_Week6\\DoorProject\\Source\\DoorProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

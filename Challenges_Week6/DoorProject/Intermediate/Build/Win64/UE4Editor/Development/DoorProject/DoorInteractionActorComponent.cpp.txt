@@ -1,0 +1,7 @@
+C:\Users\dibrahim\Documents\GitHub\CGS_Challenges\Challenges_Week6\DoorProject\Intermediate\Build\Win64\UE4Editor\Development\DoorProject\Definitions.DoorProject.h
+C:\Users\dibrahim\Documents\GitHub\CGS_Challenges\Challenges_Week6\DoorProject\Source\DoorProject\Public\DoorInteractionActorComponent.h
+C:\Users\dibrahim\Documents\GitHub\CGS_Challenges\Challenges_Week6\DoorProject\Intermediate\Build\Win64\UE4Editor\Inc\DoorProject\DoorInteractionActorComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBox.generated.h
